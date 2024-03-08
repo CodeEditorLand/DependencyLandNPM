@@ -1,0 +1,6 @@
+[submodule "Common"]
+	path = Common
+	url = ssh://git@github.com/CodeEditorLand/FoundationLandNPMCommon.git
+[submodule "Ingress"]
+	path = Ingress
+	url = ssh://git@github.com/CodeEditorLand/FoundationLandNPMIngress.git
